@@ -1,0 +1,5 @@
+C:\Users\Felipe F\Documents\GitHub\Gmail-automation-test\GmailAutomationTest\obj\Debug\net8.0\GmailAutomationTest.csproj.AssemblyReference.cache
+C:\Users\Felipe F\Documents\GitHub\Gmail-automation-test\GmailAutomationTest\obj\Debug\net8.0\GmailAutomationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe F\Documents\GitHub\Gmail-automation-test\GmailAutomationTest\obj\Debug\net8.0\GmailAutomationTest.AssemblyInfoInputs.cache
+C:\Users\Felipe F\Documents\GitHub\Gmail-automation-test\GmailAutomationTest\obj\Debug\net8.0\GmailAutomationTest.AssemblyInfo.cs
+C:\Users\Felipe F\Documents\GitHub\Gmail-automation-test\GmailAutomationTest\obj\Debug\net8.0\GmailAutomationTest.csproj.CoreCompileInputs.cache
