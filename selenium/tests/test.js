@@ -1,6 +1,6 @@
 const { Builder, By, Key, until } = require('selenium-webdriver');
 const firefox = require('selenium-webdriver/firefox');
-const BaseObject = require('../Page Object/baseobject');
+const BaseObject = require('../PageObjects/baseobject');
 
 
 describe('Test of the sign up page', () => {
