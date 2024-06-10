@@ -8,8 +8,6 @@ describe('Sign up page test', () => {
         Signup.openSignUpPage();
     })
     it('Should register page successfully', async () => {
-        //Imports a method for entering the SignUp page.
-        Signup.openSignUP();
         //Imports a mothd for registry of a new account.
         Signup.register();
     })
