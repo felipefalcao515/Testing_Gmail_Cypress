@@ -2,10 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\cypress",
-    "\\cypress\\E2E",
     "\\cypress\\support",
     "\\cypress\\support\\pages",
     "\\cypress\\support\\pages\\signup"
   ],
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
